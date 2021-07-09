@@ -1,0 +1,23 @@
+{
+    "cSpell.enableFiletypes": [
+        "markdown"
+    ],
+    "cSpell.ignoreWords": [
+        "abstract",
+        "adapter",
+        "bridge",
+        "chain",
+        "composite",
+        "decorator",
+        "factory",
+        "flyweight",
+        "framework",
+        "guru",
+        "observer",
+        "prototype",
+        "responsability",
+        "singleton",
+        "strategy",
+        "visitor"
+    ]
+}
