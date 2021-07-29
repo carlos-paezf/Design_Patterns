@@ -9,15 +9,23 @@
         "chain",
         "composite",
         "decorator",
+        "dialog",
+        "exception",
+        "extends",
         "factory",
         "flyweight",
         "framework",
         "guru",
+        "implements",
         "observer",
+        "operating",
         "prototype",
         "responsability",
         "singleton",
         "strategy",
+        "then",
+        "throw",
+        "unknown",
         "visitor"
     ]
 }
