@@ -1,4 +1,4 @@
-# Prototype - Cuenta de Ahorro
+# Prototype - Prototipos de Carros
 
 Este ejemplo fue tomado de la explicación de [El patrón Prototype (con ejemplo práctico en C#)](https://www.youtube.com/watch?v=mWLeTd-Gi34)
 
